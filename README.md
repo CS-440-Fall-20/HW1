@@ -20,7 +20,7 @@ The problems are in `hw1.tex` which is to be compiled using a LaTeX compiler.
 
 ## Grading
 
-Grading will be as per the criteria specified in the accompanying file, _rubric.csv_, which will be 
+Grading will be as per the criteria specified in the accompanying file, _rubric.csv_, which will be shared shortly.
 
 ## Submission
 
