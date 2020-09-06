@@ -28,7 +28,7 @@ There are 3 parts to this assignment.
 
 ### 1.1 Solving the Problem Set
 
-The provided file `myimage.py` is to `import`ed into a file, `hw1.py` in which you will write the required functions indicated in the problem set. Each problem specifies the name of the function to write for it. Please make sure your submitted functions have the indicated names. The file `hw1.py` in your GitHub repository at the time of the deadline will be considered your submission. As your submission will be graded by your peers, please do not include identifying information in it.
+The provided file `myimage.py` is to be `import`ed into a file, `hw1.py` in which you will write the required functions indicated in the problem set. Each problem specifies the name of the function to write for it. Please make sure your submitted functions have the indicated names. The file `hw1.py` in your GitHub repository at the time of the deadline will be considered your submission. As your submission will be graded by your peers, please do not include identifying information in it.
 
 Deadline: 18h on Friday, 11 September
 
